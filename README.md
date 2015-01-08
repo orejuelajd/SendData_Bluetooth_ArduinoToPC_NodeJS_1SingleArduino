@@ -1,0 +1,2 @@
+# SendData_Bluetooth_ArduinoToPC_NodeJS_1SingleArduino
+Se envia un string desde arduino a una laptop (lenovo z470) vía Bluetooth, utilizando el modulo Hc05. Esta conexión, para mí caso personal, utiliza el puerto COM4. Esta cadena es tomada de este puerto serial (COM4) y se imprime en la consola de node (NodeJS), lo que permitiría la futura manipulación de datos que lleguen a laptop vía Bluetooth.
